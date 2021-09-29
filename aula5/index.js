@@ -21,5 +21,8 @@ let setMonth = data.getMonth();
 let setDate = data.getDate();
 
 console.log(setFullYear);
+
 console.log(setMonth);
+
 console.log(setDate);
+
